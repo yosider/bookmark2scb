@@ -1,0 +1,3 @@
+# bookmark2scb
+
+Chromeでエクスポートしたブックマークファイルから、サイトのタイトルとURLを列挙したScrapboxページ（のimport可能なjsonデータ）を作成するコード
